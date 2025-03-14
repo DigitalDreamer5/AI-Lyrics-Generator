@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lyrics Generator</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+    <div class="container">
+        <h1>🎶 AI Lyrics Generator 🎶</h1>
+        <p>Enter keywords and create unique song lyrics instantly!</p>
+        
+        <input type="text" id="prompt" placeholder="Enter a theme (e.g., love, dreams, hope)">
+        <button id="generate-btn">Generate</button>
+        
+        <div class="lyrics-box">
+            <p id="output">Your lyrics will appear here...</p>
+        </div>
+
+        <p class="footer">✨ Made with passion by Kashish Valecha, for music lovers who feel the rhythm of words. 🎶</p> 
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
