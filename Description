@@ -1,0 +1,19 @@
+🎶 AI-Powered Lyrics Generator 🎶
+This project is a dynamic lyrics generator that creates song lyrics based on user-provided themes or emotions. Whether you're a songwriter, poet, or just someone who loves music, this tool helps you craft meaningful lyrics effortlessly!
+
+✨ Features:
+✔️ AI-Generated Lyrics – Get custom song lines based on your input.
+✔️ Beautiful UI – A sleek and interactive design for a smooth experience.
+✔️ Instant Results – Generates lyrics in seconds with a simple click.
+✔️ Personalized Touch – Every lyric includes e/kashi55 and Under25, making it unique!
+
+🛠️ Tech Stack Used:
+🔹 Flask (Python) – Backend framework for processing lyric generation.
+🔹 HTML, CSS, JavaScript – For the interactive and aesthetic web page.
+🔹 Jinja2 (Flask Templates) – For rendering dynamic content.
+🔹 Prompt Engineering (AI-Assisted) – Used AI-powered prompts to enhance lyric generation.
+
+💡 Inspiration & Purpose:
+Created by Kashish Valecha, this project is for music lovers who feel the rhythm of words. It blends creativity and technology, making songwriting effortless and fun!
+
+🎤 Ready to craft your next masterpiece? Try it out now! 🎶🔥
